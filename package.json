@@ -1,5 +1,5 @@
 {
-    "name": "colors",
+    "name": "@libertyio/colors-node-js",
     "description": "get colors in your node.js console",
     "version": "1.4.0",
     "author": "Marak Squires",
@@ -9,8 +9,8 @@
             "url": "https://github.com/DABH"
         }
     ],
-    "homepage": "https://github.com/Marak/colors.js",
-    "bugs": "https://github.com/Marak/colors.js/issues",
+    "homepage": "https://github.com/libertyio/colors-node-js",
+    "bugs": "https://github.com/libertyio/colors-node-js/issues",
     "keywords": [
         "ansi",
         "terminal",
@@ -18,7 +18,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/Marak/colors.js.git"
+        "url": "http://github.com/libertyio/colors-node-js.git"
     },
     "license": "MIT",
     "scripts": {
